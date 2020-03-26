@@ -1,5 +1,3 @@
-import com.sun.deploy.net.HttpResponse;
-
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.HttpURLConnection;
