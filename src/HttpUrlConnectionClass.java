@@ -27,5 +27,6 @@ public class HttpUrlConnectionClass {
         } catch (IOException e) {
             e.printStackTrace();
         }
+        System.out.println("Pull request succesfull");
     }
 }
